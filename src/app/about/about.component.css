@@ -1,0 +1,15 @@
+section.row.row-grey {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(240, 240, 240);
+}
+
+section.row.row-white {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+section.row.div.indent {
+    text-indent: 5px;
+}
